@@ -1,6 +1,6 @@
 ShowRange = 100
 
-DoorLock = false
+DoorLock = true
 
 carInvincible = true 
 
@@ -18,7 +18,7 @@ Cars = {
         heading = 72.25,
         model = 'blista',
         spin = false,
-        text = "This is a vehicle",
+        text = "\_This is a vehicle_/",
         plate = "blista"
     }
 }

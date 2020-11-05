@@ -100,7 +100,7 @@ function Draw3DText(x, y, z, textInput, scaleX, scaleY)
     local fov        = (1 / GetGameplayCamFov()) * 100
     local scale      = scale * fov   
     SetTextScale(scaleX * scale, scaleY * scale)
-    SetTextFont("FontName")
+    SetTextFont("Gobold Blocky")
     SetTextProportional(1)
     SetTextColour(250, 250, 250, 255)
     SetTextDropshadow(1, 1, 1, 1, 255)
